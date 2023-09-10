@@ -1,1 +1,1 @@
-"Disclaimer: This is not Hacking Repository, this just for fun and educational only. Any violence because of this, is beyond my responsibility" 
+This Project is Created for educational purpose , also how you can secure your password .
